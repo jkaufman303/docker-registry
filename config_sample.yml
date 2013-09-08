@@ -3,6 +3,8 @@
 common:
     s3_access_key: REPLACEME
     s3_secret_key: REPLACEME
+    # Set alternative S3 service host if needed
+    # s3_secret_host: rest.s3for.me
     s3_bucket: REPLACEME
     # Set a random string here
     secret_key: REPLACEME
